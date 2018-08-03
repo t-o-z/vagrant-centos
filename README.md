@@ -12,8 +12,8 @@ vagrant up
     * CentOS7
     * centos/7
 * Web Server
-    * Apache2.4.7
+    * Apache2.4.6
 * PHP
-    * PHP7
+    * PHP5.4.16
 * Database
     * MySQL5.6
